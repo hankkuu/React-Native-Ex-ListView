@@ -1,6 +1,6 @@
 # React-Native-Ex-ListView
 
-<img src="https://github.com/hankkuu/React-Native-Ex-ListView/tree/master/docs/react-native-ex-listview.gif />
+<img src="https://github.com/hankkuu/React-Native-Ex-ListView/blob/master/docs/react-native-ex-listview.gif" />
 
 
 
